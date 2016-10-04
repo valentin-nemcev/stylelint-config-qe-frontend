@@ -1,0 +1,1 @@
+# stylelint-config-qe-frontend
