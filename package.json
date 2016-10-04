@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-qe-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "stylelint 'src/**/*.{less,css}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentin-nemcev/stylelint-config-qe-frontend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valentin-nemcev/stylelint-config-qe-frontend/issues"
+  },
+  "homepage": "https://github.com/valentin-nemcev/stylelint-config-qe-frontend#readme",
+  "peerDependencies": {
+    "stylelint": "^7.3.1",
+    "postcss-less": "^0.15.0"
+  },
+  "devDependencies": {
+    "postcss-less": "0.15.0",
+    "stylelint": "7.3.1"
+  }
+}
